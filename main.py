@@ -16,6 +16,11 @@ scaler = joblib.load('scaler.pkl')
 class PredictionData(BaseModel):
     Temperature: float
     Humidity: int
+    Wind_Speed: float
+    Precipitation: float
+    Atmospheric_Pressure: float
+    UV_Index: int
+    Visibility_km: float
 
 @app.post("/predict")
 def predict(data: List[PredictionData]):
