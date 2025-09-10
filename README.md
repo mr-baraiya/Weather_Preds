@@ -137,14 +137,6 @@ http://127.0.0.1:5500/
 
 ---
 
-## Demo
-
-* Sunny Day → ☀️ Sunny
-* Rainy Day → ☀️ Sunny (for demo)
-* Cloudy Day → ☀️ Sunny (for demo)
-
----
-
 ## Dependencies
 
 * fastapi
