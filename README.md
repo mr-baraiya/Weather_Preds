@@ -85,7 +85,7 @@ Weather_Preds/
 1. **Clone the repository** (or download the files):
 
 ```bash
-git clone <your-repo-url>
+git clone (https://github.com/mr-baraiya/Weather_Preds)
 cd Weather_Preds
 ```
 
