@@ -1,3 +1,8 @@
+# Build tools
+pip>=25.2
+setuptools>=68.0.0
+wheel>=1.0.0
+
 # FastAPI and ASGI server
 fastapi==0.116.1
 uvicorn==0.23.2
